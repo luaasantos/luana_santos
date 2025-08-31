@@ -18,7 +18,7 @@
 
 ## 📂 Projetos em Destaque  
 
-🔹 [**Devpulse Landing**](#) –  App de controle de tarefas com Angular  
+🔹 [**Devpulse Landing**]() –  Este projeto foi desenvolvido com o objetivo de praticar e reforçar conhecimentos básicos da trinca de Front-end — HTML, CSS e JavaScript — e faz parte da minha trilha de estudos pessoal.
  
 
 
