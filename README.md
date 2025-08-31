@@ -18,7 +18,7 @@
 
 ## 📂 Projetos em Destaque  
 
-🔹 [**Landing Page**](#) –  App de controle de tarefas com Angular  
+🔹 [**Devpulse Landing**](#) –  App de controle de tarefas com Angular  
  
 
 
