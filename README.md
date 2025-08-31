@@ -1,6 +1,3 @@
-<img align="right" height="590em" src="https://gist.github.com/luaasantos/f3be0ade580aee4e7ab81aad96f08c90"/>
-
-![ProfileViews](https://gpvc.arturio.dev/luaasantos);
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Luana Santos</h1>
 
@@ -8,51 +5,38 @@
 
 - 🚀 Angular Jr Front-end Developer focused on taking the next step 
 
-- 🧡 I’m currently working at [Itáu](https://github.com/itau)
+- 🧪 Background como **QA**, o que me dá foco em qualidade e testes
 
-- 👩🏻‍💻 Developing HelpCar project - Your mechanical help app
+- 📚 Apaixonada por aprendizado contínuo e tecnologia
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React, Angular**
-- 
-<!--
+- ☁️ Conhecimentos em **AWS** e boas práticas de desenvolvimento
 
-<br><br>
+## 🚀 Tecnologias e Ferramentas  
 
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 
-<br><br>
+## 📂 Projetos em Destaque  
 
-## ⚙️ &nbsp;GitHub Analytics
+🔹 [**Landing Page**](#) –  App de controle de tarefas com Angular  
+ 
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=luaasantos&show_icons=true&theme=vision-friendly-dark" alt="Luana Santos stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luaasantos&layout=compact&theme=vision-friendly-dark" alt="Luana Santos most languages"/>
-</p>
--->
 
-<br><br>
+## 🎓Bootcamps 
 
-## Contact
+- 👩🏻‍💻 **Bootcamp Santander Angular** (em andamento)
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
+- ☁️ **Santander Coders Girls AWS** (em andamento)  
 
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-</p>
 
+  
+## 📊 Estatísticas do GitHub  
+![Luana's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanalvessantos&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanalvessantos&layout=compact&theme=radical)  
+
+
+##  📫 Onde me encontrar
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luanalvessantos)  
 <!--
 
 
