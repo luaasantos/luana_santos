@@ -49,11 +49,7 @@ This GitHub is focused on my journey in *Software Quality*, where I document stu
 
 ## 📂 Featured Projects  
 
-🔹 [**Manual Test Bankline**](https://github.com/luaasantos/qa-manual-tests) –  Manual Test Scenarios & Documentation
-
-🔹 [**Devpulse Landing**](link) –  Cypress Automated Tests
-
-🔹 [**Devpulse Landing**](link) –  QA Study Projects and Experiments
+🔹 [**Laboratório de QA**](https://github.com/luaasantos/qa-testing-lab) –  Laboratório de QA(Cypress com Parabank)
 
  
 
