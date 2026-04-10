@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=luaasantos&color=986DFF)
 
-# Luana Santos
+# Olá, seja bem vindo ao meu Laboratório de QA 
 
-QA Analyst Jr | QA Engineer  
-Graduada em Análise e Desenvolvimento de Sistemas  
-Experiência em desenvolvimento Front-end
+- 💜 QA Analyst Jr | QA Engineer  
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas  
+- 🚀 Experiência em desenvolvimento Front-end
 
 Sou uma profissional de **Qualidade de Software** com experiência prática em **testes manuais**, atuando próxima a times de desenvolvimento para garantir qualidade, confiabilidade e boa experiência do usuário em aplicações web.
 
@@ -12,7 +12,7 @@ Tenho experiência na validação de **regras de negócio, cenários críticos e
 
 Minha experiência com desenvolvimento me ajuda a compreender melhor o comportamento do sistema, analisar fluxos técnicos e colaborar de forma mais eficiente com engenheiros de software.
 
-Atualmente estou evoluindo meus conhecimentos em **automação de testes com Cypress**, estruturando projetos de automação e aplicando boas práticas de QA.
+- 🌱 Atualmente estou evoluindo meus conhecimentos em **automação de testes com Cypress**, estruturando projetos de automação e aplicando boas práticas de QA.
 
 Este GitHub documenta minha evolução contínua na área de **Qualidade de Software**, reunindo estudos, projetos de testes e práticas aplicadas.
 
