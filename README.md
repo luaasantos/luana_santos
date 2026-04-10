@@ -1,60 +1,105 @@
+![](https://komarev.com/ghpvc/?username=luanasantos&color=986DFF)
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Luana Santos</h1>
+# Olá, eu sou a Luana Santos 👩‍💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luaasantos&color=yellow" alt="Profile views" /> </p>
+🧪 QA Analyst Jr | Software Quality Enthusiast  
+🎓 Graduada em Análise e Desenvolvimento de Sistemas  
+💻 Background como Desenvolvedora Front-end  
 
-🧪 *QA Analyst Jr | Software Quality Enthusiast*  
-🎓 Graduated in Systems Analysis and Development  
-💻 Background as Front-end Developer
+Sou uma profissional de **Qualidade de Software** com experiência prática em **testes manuais**, trabalhando próxima a times de desenvolvimento para garantir **qualidade, confiabilidade e boa experiência do usuário em aplicações web**.
 
-I am a QA Analyst Jr with hands-on experience in *manual testing*, working closely with development teams to ensure software quality, reliability, and usability.
+Tenho experiência na **validação de regras de negócio, cenários críticos e testes de regressão**, sempre com foco em mitigar riscos e garantir estabilidade nas entregas.
 
-I have participated in testing critical systems and digital products, validating business rules, edge cases, and regression scenarios, always focusing on delivering safe and consistent user experiences.
+Meu background em desenvolvimento me ajuda a **compreender o comportamento do sistema, analisar logs, interpretar fluxos técnicos e colaborar melhor com engenheiros de software**.
 
-My background as a developer helps me communicate effectively with engineers, understand system behavior, analyze logs, and anticipate potential failure points.
+Atualmente estou evoluindo meus conhecimentos em **automação de testes com Cypress**, estruturando projetos de automação e aplicando boas práticas de testes.
 
-### 🔍 What I work with
-- Manual testing (test cases, exploratory testing, regression)
-- Agile methodologies (Scrum)
-- Git and version control
-- Change Management (GMUD)
-- Validation of critical flows and business rules
-- Collaboration with product and development teams
+Este GitHub documenta minha **evolução contínua na área de Qualidade de Software**, reunindo estudos, projetos de testes e práticas aplicadas.
 
 ---
 
-### 🚀 Currently evolving in
-- Test automation with **Cypress**
-- Automated test structure and best practices
-- Test execution using **Docker**
-- API testing fundamentals
+# 👩‍💻 Sobre mim
 
-This GitHub is focused on my journey in *Software Quality*, where I document studies, practices, and test projects as part of my continuous learning process.
-  
+- 🔎 Focada em **Qualidade de Software e confiabilidade de sistemas**
+- 🎓 Graduada em **Análise e Desenvolvimento de Sistemas**
+- 🧪 Experiência com **testes manuais, validação de regras de negócio e testes exploratórios**
+- 🌱 Atualmente estudando **Automação de Testes com Cypress**
+- 💡 Interesse em **QA Automation, testes de API e boas práticas de qualidade**
 
-## 🚀 Technologies & Tools  
+---
 
-### 🧪 Skills & Tools
+# 🧠 Minhas Skills
 
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Testes de Software](https://img.shields.io/badge/Software_Testing-0A66C2?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## Testes de Software
 
+![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-333333?style=flat-square)
+![Exploratory Testing](https://img.shields.io/badge/-Exploratory%20Testing-333333?style=flat-square)
+![Regression Testing](https://img.shields.io/badge/-Regression%20Testing-333333?style=flat-square)
+![Test Cases](https://img.shields.io/badge/-Test%20Cases-333333?style=flat-square)
+![Bug Report](https://img.shields.io/badge/-Bug%20Reporting-333333?style=flat-square)
 
-## 📂 Featured Projects  
+---
 
-🔹 [**Laboratório de QA**](https://github.com/luaasantos/qa-testing-lab) –  Laboratório de QA(Cypress com Parabank)
+## Automação de Testes
 
- 
+![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat-square&logo=cypress)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
 
-##  📫 *Let’s connect*
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luanalvessantos)  
-<!--
+---
 
+## DevOps e Versionamento
 
+![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
+
+---
+
+## Desenvolvimento
+
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=CSS3)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat-square&logo=angular)
+
+---
+
+## Ferramentas
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat-square&logo=insomnia)
+
+---
+
+# 📂 Projeto em destaque
+
+🔹 **QA Testing Lab**
+
+Projeto que começou com **testes manuais estruturados** e evoluiu para **automação de testes utilizando Cypress** no sistema Parabank.
+
+O repositório inclui:
+
+- Plano de testes  
+- Casos de teste  
+- Testes exploratórios  
+- Relatórios de bugs  
+- Checklists de validação  
+- Estrutura inicial de automação com Cypress  
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<a href="https://github.com/luanasantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanasantos&theme=dracula&show_icons=true" />
+</a>
+
+---
+
+# 📫 Onde me encontrar
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-986DFF?style=flat-square&logo=Linkedin&logoColor=fff&link=https://linkedin.com/in/luanalvessantos)](https://linkedin.com/in/luanalvessantos)
+
+[![Gmail Badge](https://img.shields.io/badge/-luaasantos@outlook.com.br-986DFF?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:luaasantos@outlook.com.br)](mailto:luaasantos@outlook.com.br)
+
+[![GitHub](https://img.shields.io/github/followers/luanasantos?label=follow&style=social)](https://github.com/luanasantos)
