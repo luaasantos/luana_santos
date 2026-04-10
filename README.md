@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=luaasantos&color=986DFF)
 
-# Olá, seja bem vindo ao meu Laboratório de QA 
+# Luana Santos
 
 - 💜 QA Analyst Jr | QA Engineer  
 - 🎓 Graduada em Análise e Desenvolvimento de Sistemas  
-- 🚀 Experiência em desenvolvimento Front-end
+- 🚀 Experiência em Desenvolvimento Front-end Angular
 
 Sou uma profissional de **Qualidade de Software** com experiência prática em **testes manuais**, atuando próxima a times de desenvolvimento para garantir qualidade, confiabilidade e boa experiência do usuário em aplicações web.
 
